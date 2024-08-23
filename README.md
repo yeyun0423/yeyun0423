@@ -25,8 +25,6 @@
          <a href=mailto:pet2ytty@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pet2ytty@gmail.com"> </a>
          <a href=https://www.notion.so/Yeyun-s-Developer-Notion-552f5d491c7b4e368260bbd753d15000> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Yeyun-s-Developer-Notion-552f5d491c7b4e368260bbd753d15000"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeyun0423%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yeyun0423&bg_color=60,ffffff,ffffff&title_color=8979b8&text_color=8979b8"

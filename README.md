@@ -26,7 +26,7 @@
     <a href="mailto:pet2ytty@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://www.notion.so/Yeyun-s-Developer-Notion-552f5d491c7b4e368260bbd753d15000">
+    <a href="https://www.notion.so/Programming-13b57d4306dd80f3b0e1c5f679616ab2">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
   </div>

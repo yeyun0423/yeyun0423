@@ -20,7 +20,7 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Portfolio </h2>
   <br>
   <div align="center">
     <a href="mailto:pet2ytty@gmail.com">

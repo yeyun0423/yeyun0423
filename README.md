@@ -19,20 +19,8 @@
   </div>
 </div>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Portfolio </h2>
-  <br>
-  <div align="center">
-    <a href="https://www.notion.so/Programming-13b57d4306dd80f3b0e1c5f679616ab2">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
-  </div>
-</div>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeyun0423&bg_color=60,ffffff,ffffff&title_color=8979b8&text_color=8979b8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyun0423&layout=compact&bg_color=60,ffffff,ffffff&title_color=8979b8&text_color=8979b8">
-  </div>
-</div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/yeyun0423?pet-id=1" width="1000" height="120"/>
+</a>

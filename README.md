@@ -27,7 +27,7 @@
 > <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
----
+<br/>
 
 <div align="center">
 

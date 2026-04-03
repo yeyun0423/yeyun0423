@@ -39,7 +39,7 @@
 <table width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="53%" valign="top" style="padding-right: 40px; border: none;">
+<td width="50%" valign="top" style="padding-right: 40px; border: none;">
 
 <h3>🎓 Experience</h3>
 
@@ -60,7 +60,7 @@
 
 </td>
 
-<td width="45%" valign="top" style="padding-left: 40px; border: none;">
+<td width="50%" valign="top" style="padding-left: 40px; border: none;">
 
 <h3>📂 Projects</h3>
 

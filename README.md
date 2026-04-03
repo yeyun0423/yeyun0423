@@ -39,7 +39,7 @@
 <table width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" valign="top" style="padding-right: 40px; border: none;">
+<td width="53%" valign="top" style="padding-right: 40px; border: none;">
 
 <h3>🎓 Experience</h3>
 
@@ -49,7 +49,7 @@
 - 🦁**멋쟁이사자처럼 서버 파트** 수료 중  
   `2026.03 ~ 현재`
 
-- 🌱 **UMC SpringBoot** 트랙 수료  
+- 🌱**UMC SpringBoot** 트랙 수료  
   `2025.09 ~ 2026.02`
 
 - 📱**UMC AOS** 트랙 수료  
@@ -60,7 +60,7 @@
 
 </td>
 
-<td width="100%" valign="top" style="padding-left: 40px; border: none;">
+<td width="45%" valign="top" style="padding-left: 40px; border: none;">
 
 <h3>📂 Projects</h3>
 
